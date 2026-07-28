@@ -6,3 +6,13 @@ Aspiring AI & Machine Learning Engineer with expertise in Full Stack Development
 - 💻 Enhancing my skills in Full Stack Development.
 - 📚 Completing my Honours coursework and practical training.
 ---
+### 
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+</p>
+
